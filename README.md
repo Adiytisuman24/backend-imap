@@ -201,6 +201,11 @@ This is a demonstration project built for a technical assessment. Feel free to e
 
 MIT License - See LICENSE file for details
 
+image :<img width="1905" height="909" alt="Screenshot 2025-07-21 165928" src="https://github.com/user-attachments/assets/8e9377b6-ee3b-42fa-863b-3145e9eca4a5" />
+<img width="1901" height="899" alt="Screenshot 2025-07-21 165941" src="https://
+github.com/user-attachments/assets/ad72e22a-a00f-4a9b-8e55-0062956cb3a2" />
+<img width="1880" height="894" alt="Screenshot 2025-07-21 165954" src="https://github.com/user-attachments/assets/3143db10-8d89-4861-815f-e2ae81cef693" />
+
 git init
 git add README.md
 git commit -m "first commit"
